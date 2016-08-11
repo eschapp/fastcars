@@ -1,0 +1,1 @@
+Hey we're building and app today working with Flickr and Edmond's APIs.
